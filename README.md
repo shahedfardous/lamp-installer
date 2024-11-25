@@ -10,7 +10,7 @@
 
 ## 🚀 One-Line Installation
 ```bash
-curl -sSL https://raw.githubusercontent.com/shahedfardous/lamp-installer/main/install_lamp.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/shahedfardous/lamp-installer/master/install_lamp.sh | sudo bash
 ```
 
 ## 📖 Overview
@@ -68,7 +68,7 @@ Sets up:
 
 ### 1. Quick Install (Recommended)
 ```bash
-curl -sSL https://raw.githubusercontent.com/shahedfardous/lamp-installer/main/install_lamp.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/shahedfardous/lamp-installer/master/install_lamp.sh | sudo bash
 ```
 
 ### 2. Manual Installation
