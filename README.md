@@ -1,7 +1,7 @@
 # 🚀 Ubuntu LAMP Stack Installer
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-user-id/your-repo/banner.svg" alt="LAMP Stack" width="800">
+  <img src="https://user-images.githubusercontent.com/shahedfardous/lamp-installer/banner.svg" alt="LAMP Stack" width="800">
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
